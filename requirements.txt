@@ -1,0 +1,4 @@
+python-dotenv
+requests
+discord.py==2.0.1
+py-cord
